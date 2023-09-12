@@ -2,6 +2,7 @@
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
+// je mist hier een bestand
 require '../vendor/autoload.php';
 
 // Check if name, email and message are given
